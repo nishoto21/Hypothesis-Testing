@@ -14,19 +14,19 @@ Cannot monitor each and every call due to limited resources ; so randomly sample
 
 Day	   Mean call duration
 
-1	   3.7
-2	   4.1
-3	   3.5
-4	   4.2
-5	   3.9
-6	   4.1
-7	   4.2
-8	   3.8
-9	   3.7
-10	   4.6
-11	   3.7
+1	       3.7
+2	       4.1
+3	       3.5
+4	       4.2
+5	       3.9
+6	       4.1
+7	       4.2
+8	       3.8
+9	       3.7
+10	     4.6
+11	     3.7
 12       4.6
-13	   4.0
+13	     4.0
 14       4.2
 15       3.8
 16       4.4
@@ -34,3 +34,4 @@ Day	   Mean call duration
 18       6.1
 19       7.2
 20       6.5
+
