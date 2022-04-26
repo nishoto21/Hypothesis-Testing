@@ -1,6 +1,0 @@
-Control and Treatment groups
-
-6 subjects were given a drug(treatment group) and an additional 6 subjects a placebo(control group).Their reaction time to a stimulus was measured (in ms).We want to perform a two sample t-test for comparing the means of the treatment and control groups. 
-
-Control   : 91, 87, 99, 77, 88, 91
-Treatment : 101, 110, 103, 93, 99, 104 
