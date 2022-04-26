@@ -2,7 +2,6 @@
 
 Call center example:
 
-
 Performance of a call center is monitored by the average call duration.
 
 Date from 18months shows that on the days when the process runs normally:
