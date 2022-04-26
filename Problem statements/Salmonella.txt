@@ -7,3 +7,4 @@ An outbreak of Salmonella - related illness was attributed to ice cream produced
 0.593, 0.142, 0.329, 0.691, 0.231, 0.793, 0.519, 0.392, 0.418
 
 Is there evidence that the mean of Salmonella in the ice cream is greater than 0.3 MPN/g?
+
