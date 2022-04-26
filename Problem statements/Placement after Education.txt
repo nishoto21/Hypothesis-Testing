@@ -1,0 +1,15 @@
+
+
+
+Placement after Education:
+
+Is there a significant difference between the population proportions of state1 and state2 who report that they have been placed immediately after education?
+
+Population:
+
+All students who have completed their graduation and Post graduation in both states
+
+Parameter of interest: p1 - p2 , where p1 is state1 and p2 is state2
+
+Data: 247 students from state1.36.8% of students report that they got a job.
+      308 students from state2.39.9% of students report that they got a job.
