@@ -2,9 +2,9 @@
 
 SuperMarket loyalty program:
 
-
 A supermarket plans to launch a loyalty program if it results in an average spending per shopper of more than $120 per week.
 
 A random sample of 80 shoppers enrolled in the pilot program spent an average of $130 with a standard deviation of $40.
 
 Should the loyalty program be launched? 
+
